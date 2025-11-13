@@ -37,6 +37,11 @@
                 "glob": "**/*",
                 "input": "public",
                 "output": "/"
+              },
+              {
+                "glob": "**/*",
+                "input": "doc",
+                "output": "/"
               }
             ],
             "styles": [
